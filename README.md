@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Just an enthusiast here trying out and exploring new things. Hope you find something interesting here. Wish you a good day!
+
 <!--
 **saikrishna-321/saikrishna-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
